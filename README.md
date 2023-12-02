@@ -1,31 +1,7 @@
-# CPSC 411 - Final Project #
-
-This is our submission for the Final Project.
-
-## Project and Team Information ##
+# Project and Team Information ##
 
 * Project: Expense Tracker mobile app for iOS
-* Institution: California State University Fullerton (CSUF)
-* Course: CPSC 411 - Mobile Device Application Programming (Fall 2023, Section 03, 13849)
-* Team Name: iCode_Duology_4x
 
-	* Name: Josue Han Yan Tai Liu
-		* CWID: 885540690
-		* Email: josue.tai@csu.fullerton.edu
-
-	* Name: Maria Fernandez
-		* CWID: 887569838
-		* Email: mariaibis@csu.fullerton.edu
-
-	* Name: Danyal Nemati
-		* CWID: 886736347
-		* Email: dnemati@csu.fullerton.edu
-
-	* Name: Indrajeet Patwardhan
-		* CWID: 886908821
-		* Email: Indrajeet2002@csu.fullerton.edu
-
-## Notes ##
 
 * Developed with Xcode 15.0.1 (based on iOS 17.0.1 - iPhone 15 Pro - iPad 10th gen)
 
